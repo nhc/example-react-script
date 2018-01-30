@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+select{
+	margin-right: 5px;
+}
+
+table{
+	margin: 0 auto;
+	width: 300px;
+	padding-top: 20px;
+}
+
+table tr td{
+	text-align: left;
+}
